@@ -13,3 +13,4 @@ One of the most important dashboards for a quick overview of company performance
 2. Metric 2
 
 Added their definition and formulas, along with a monthly and quarterly overview with a cumulative YTD figure.
+![Company Performance & Metrics Dashboard](performance_metrics.png)
