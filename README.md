@@ -1,4 +1,5 @@
 # Company Metrics Dashboard
+A Pipeline view of the Business built using redshift, excel and DynamoDB Connectors, queried with PosgreSQL
 ## Index Page
 1. Commercial Performance
 2. Project & Demand Management
