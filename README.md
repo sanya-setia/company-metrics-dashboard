@@ -7,3 +7,9 @@
 5. Customer Retention & Growth
 6. User Information
    ![Index Page of the Company Metrics Dashboard](Index_Page.png)
+## Performance & Metrics
+One of the most important dashboards for a quick overview of company performance.
+1. Metric 1
+2. Metric 2
+
+Added their definition and formulas, along with a monthly and quarterly overview with a cumulative YTD figure.
