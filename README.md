@@ -6,4 +6,4 @@
 4. Performance & Metrics
 5. Customer Retention & Growth
 6. User Information
-
+   ![Index Page of the Company Metrics Dashboard](Index_Page.png)
